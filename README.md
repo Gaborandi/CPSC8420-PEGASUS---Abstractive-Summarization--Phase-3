@@ -1,4 +1,4 @@
-# CPSC8420-PEGASUS- for Abstractive Summarization- A Web Summarizer Application --Phase-3
+#PEGASUS- for Abstractive Summarization- A Web Summarizer Application
 A simple application for summarization that you can use without any previous experience in Natural Language Processing, HuggingFace Transformers, Pre-Trained Models, Tokenization or Encoding &amp; Decoding Architectures.
 
 I use the "Newspaper3k" library to extract the text from any article links and "Gradio" library to create a friendly UI and then summarize them with "PEGASUS" model for abstractive summarization using "PEGASUS-XSUM" pre-trained model.
